@@ -1,5 +1,7 @@
 ### 방성민 · 백엔드
 
+📄 **이력서** — [elian-bang.github.io/resume](https://elian-bang.github.io/resume/)
+
 무엇이 문제인지 **재고** 나서 고칩니다.
 아래 세 저장소는 "했다"가 아니라 **"그게 맞는지 어떻게 확인했나"** 를 남긴 기록입니다.
 
